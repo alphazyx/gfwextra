@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2023/3/5
+; Date: 2023/3/6
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 defillama.com
@@ -244,3 +244,9 @@ anyproxy.io
 aptosfoundation.org
 jetboost.io
 website-files.com
+addtoany.com
+cdn-cookieyes.com
+hs-scripts.com
+martianwallet.xyz
+ctfassets.net
+coinzillatag.com
